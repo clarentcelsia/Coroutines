@@ -1,0 +1,2 @@
+rootProject.name = "Launch_Async_Coroutines"
+include ':app'
